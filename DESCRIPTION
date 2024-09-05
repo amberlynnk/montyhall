@@ -1,0 +1,16 @@
+Package: montyhall
+Title: Monty Hall Problem Simulator
+Version: 1.0.0.0000
+Authors@R: 
+    person(given = "Amber",
+           family = "Keener",
+           role = c("aut", "cre"),
+           email = "akeener@asu.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The package is a Monty Hall Problem Simulator.  The Monty Hall problem is a probability puzzle where you choose one of "n" doors, behind the doors are a prize you want, (e.g. a car) and behind the others are prizes you don't want (e.g. goats). After you pick a door, the host, who knows what’s behind the doors, opens another door and offers you the chance to switch to the another remaining door.
+Depends:
+    dplyr
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
